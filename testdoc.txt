@@ -1,0 +1,3 @@
+this is first line
+this is second line / add some text to second line in branch_2
+this is third line
